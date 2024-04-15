@@ -1,10 +1,12 @@
-# Metaplex Candy Machine
+# MadApes NFT Club on Solana
 
-The Metaplex Protocol Candy Machine is the leading minting and distribution program for fair NFT collection launches on Solana. It allows creators to bring their digital assets on-chain in a secure and customisable way.
+Once upon a time in the vast digital expanse of the blockchain, there existed a tribe of mischievous and whimsical creatures known as the MadApes. These pixelated primates were not your ordinary NFTs; they were infused with boundless energy and an insatiable appetite for adventure.
 
-You can [**read more about Candy Machines in the official Metaplex documentation**](https://developers.metaplex.com/candy-machine).
+Led by their charismatic leader, Ape-ril, the MadApes roamed the virtual jungle of Solana, swinging from one decentralized platform to another with reckless abandon. Their antics were legendary, from photobombing famous crypto influencers to pulling off daring heists in the metaverse.
 
-![Metaplex Candy Machine - Launch your NFT collection. Customize your minting workflow, Use multiple minting groups, Protect your launch against bots, Supports Programmable NFTs, And much more!](https://user-images.githubusercontent.com/3642397/230599235-eb2223e7-0869-4f5e-aa07-a89c1645c0d1.jpg)
+Mint Coming Soon
+(https://solmadapes.com/)
+
 
 ## Programs
 
